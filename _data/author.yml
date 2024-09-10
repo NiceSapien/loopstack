@@ -2,22 +2,16 @@ name: NiceSapien
 dp: https://avatars.githubusercontent.com/u/71333407?v=4
 description: "
   <p>
-    Developed by NiceSapien who lives in Britain building useful things for the world.
+    Hey there, I'm NiceSapien. I created this blog to help you all with dumb stuff!
   </p>
-  <br/>
-  <p>
-    You should follow him on <a href='https://github.com/nicesapien' target='_blank'>Github</a>
-  </P>
 "
-email: dev_sharad@outlook.com
+email: nicesapien@duck.com
 contact:
-  - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
   - title: github
-    url: https://github.com/sharadcodes
+    url: https://github.com/nicesapien
   - title: twitter
-    url: https://twitter.com/iamsharadraj
+    url: https://twitter.com/nicesapien
   - title: dev
-    url: https://dev.to/sharadcodes
+    url: https://dev.to/nicesapien
   - title: email
-    url: mailto:dev_sharad@outlook.com
+    url: mailto:nicesapien@duck.com
